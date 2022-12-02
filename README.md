@@ -1,1 +1,2 @@
-# Projekt_PHP2.0
+# Projekt_PHP
+Projekt PHP na studia.
